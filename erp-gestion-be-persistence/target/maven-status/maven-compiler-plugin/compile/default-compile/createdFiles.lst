@@ -1,0 +1,5 @@
+com\fvc\erp\gestion\be\persistence\ventas\interfaces\ClienteRepository.class
+com\fvc\erp\gestion\be\persistence\config\PersistenceConfig.class
+com\fvc\erp\gestion\be\persistence\common\ConverterUtils.class
+com\fvc\erp\gestion\be\persistence\ventas\repository\BD1ClienteRepository.class
+com\fvc\erp\gestion\be\persistence\ventas\vo\ClienteVO.class

@@ -1,0 +1,9 @@
+com\fvc\erp\gestion\be\contract\config\ContractConfig.class
+com\fvc\erp\gestion\be\contract\common\RequestVO.class
+com\fvc\erp\gestion\be\contract\config\SwaggerConfiguration.class
+com\fvc\erp\gestion\be\contract\ventas\rescontroller\ClienteRestController.class
+com\fvc\erp\gestion\be\contract\common\ConverterRestUtils.class
+com\fvc\erp\gestion\be\contract\common\PageResponseRestVO.class
+com\fvc\erp\gestion\be\contract\common\PageRequestRestVO.class
+com\fvc\erp\gestion\be\contract\ventas\vo\ClienteRestVO.class
+com\fvc\erp\gestion\be\contract\common\ResponseVO.class

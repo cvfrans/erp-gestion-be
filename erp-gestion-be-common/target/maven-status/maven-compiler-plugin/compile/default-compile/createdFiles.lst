@@ -1,0 +1,6 @@
+com\fvc\erp\gestion\be\common\Constants.class
+com\fvc\erp\gestion\be\common\ErpUtils.class
+com\fvc\erp\gestion\be\common\ConversorUtils.class
+com\fvc\erp\gestion\be\common\config\CommonConfig.class
+com\fvc\erp\gestion\be\common\FieldUtil.class
+com\fvc\erp\gestion\be\common\ObjectValidator.class

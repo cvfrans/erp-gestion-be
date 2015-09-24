@@ -1,0 +1,7 @@
+com\fvc\erp\gestion\be\service\config\ServiceConfig.class
+com\fvc\erp\gestion\be\service\ventas\interfaces\ClienteService.class
+com\fvc\erp\gestion\be\service\common\PageRequestServiceVO.class
+com\fvc\erp\gestion\be\service\ventas\service\ClienteServiceImpl.class
+com\fvc\erp\gestion\be\service\common\ConverterServiceUtils.class
+com\fvc\erp\gestion\be\service\ventas\vo\ClienteServiceVO.class
+com\fvc\erp\gestion\be\service\common\PageResponseServiceVO.class
